@@ -14,4 +14,5 @@ The steps are:
 
 ![](https://raw.githubusercontent.com/steviecurran/trend_thief/refs/heads/main/overlay_ex.jpg)
 
-
+The test image, fgc+11_Fig5.png' from *[ALFALFA H I data stacking – I. Does the bulge quench ongoing star
+formation in early-type galaxies?](https://ui.adsabs.harvard.edu/abs/2011MNRAS.411..993F/abstract)* for which the code was originally written, since the data points are fairly indistinguishable and the trend is not straight.
