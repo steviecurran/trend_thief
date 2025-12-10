@@ -11,3 +11,7 @@ The steps are:
 - Annotate lines and adjust to coincide with the reference points
 - Overlay and adjust polyline to coincide with data points
 - Output array containing the transformed polyline coordinates which can be overlaid on your own plot
+
+![](https://raw.githubusercontent.com/steviecurran/trend_thief/refs/heads/main/overlay_ex.jpg)
+
+
